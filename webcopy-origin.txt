@@ -1,0 +1,316 @@
+Uri: https://international.indoex.io/
+File Name: C:\Downloaded Web Sites\international.indoex.io\index.htm
+Content Type: text/html
+
+Uri: https://international.indoex.io/favicon.ico
+File Name: C:\Downloaded Web Sites\international.indoex.io\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://international.indoex.io/assets/css/style.css?version=3
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\css\style.css
+Content Type: text/css
+
+Uri: https://international.indoex.io/assets/css/bootstrap.min.css?version=3
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://international.indoex.io/assets/css/main.css?version=3
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\css\main.css
+Content Type: text/css
+
+Uri: https://international.indoex.io/assets/js/magicscroll.css
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\magicscroll.css
+Content Type: text/css
+
+Uri: https://international.indoex.io/styles.ee6171c3f90fb2b7f736.css
+File Name: C:\Downloaded Web Sites\international.indoex.io\styles.ee6171c3f90fb2b7f736.css
+Content Type: text/css
+
+Uri: https://international.indoex.io/assets/js/swiper.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/js/jquery-1.11.2.min.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/js/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/datafeeds/udf/dist/polyfills.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\datafeeds\udf\dist\polyfills.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/datafeeds/udf/dist/bundle.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\datafeeds\udf\dist\bundle.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/js/main.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/js/jquery-3.4.1.slim.min.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\jquery-3.4.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-144182160-2
+File Name: C:\Downloaded Web Sites\international.indoex.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://certify.alexametrics.com/atrk.gif?account=J10lt1DlQy20Y8
+File Name: C:\Downloaded Web Sites\international.indoex.io\atrk.gif
+Content Type: image/gif
+
+Uri: https://international.indoex.io/runtime.a66f828dca56eeb90e02.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\runtime.a66f828dca56eeb90e02.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/polyfills.1a76b195c32e157513ff.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\polyfills.1a76b195c32e157513ff.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/scripts.03e042f1f102bf0e2ed8.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\scripts.03e042f1f102bf0e2ed8.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/main.fd93d8e8f6f04e7e9fc0.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\main.fd93d8e8f6f04e7e9fc0.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\international.indoex.io\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://international.indoex.io/assets/images/icons.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\icons.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/front_id.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\front_id.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/back_id.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\back_id.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/hand_id.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\hand_id.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/contestcup.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\contestcup.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/search_bc.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\search_bc.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/bg-2.jpg
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://international.indoex.io/assets/images/bg-111.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\bg-111.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/land/sprite88c2.svg
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\land\sprite88c2.svg
+Content Type: image/svg+xml
+
+Uri: https://international.indoex.io/assets/css/images/land/sprite88c2.svg?v=1538639713
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\css\images\land\sprite88c2.svg.html
+Content Type: text/html
+
+Uri: https://international.indoex.io/assets/css/images/land/sprite-all88c2.svg?v=1538639713
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\css\images\land\sprite-all88c2.svg.html
+Content Type: text/html
+
+Uri: https://international.indoex.io/assets/images/land/langs88c2.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\land\langs88c2.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/img/svg/arrow_right.svg
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\img\svg\arrow_right.svg.html
+Content Type: text/html
+
+Uri: https://international.indoex.io/assets/img/lightbox/default-skin.svg
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\img\lightbox\default-skin.svg.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrLPTucHtA.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiGyp8kv8JHgFVrLPTucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJbecmNE.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiEyp8kv8JHgFVrJJbecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\poppins\v9\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/materialicons/v52/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2
+File Name: C:\Downloaded Web Sites\international.indoex.io\s\materialicons\v52\flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2
+Content Type: font/woff2
+
+Uri: https://international.indoex.io/assets/images/arrow-left.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/arrow-left-h.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\arrow-left-h.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/arrow-right.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/arrow-right-h.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\arrow-right-h.png
+Content Type: image/png
+
+Uri: https://at.alicdn.com/t/font_375611_vg0twe1bbtzc9pb9.eot
+File Name: C:\Downloaded Web Sites\international.indoex.io\t\font_375611_vg0twe1bbtzc9pb9.eot
+Content Type: application/octet-stream
+
+Uri: https://at.alicdn.com/t/font_375611_vg0twe1bbtzc9pb9.woff
+File Name: C:\Downloaded Web Sites\international.indoex.io\t\font_375611_vg0twe1bbtzc9pb9.woff
+Content Type: application/octet-stream
+
+Uri: https://at.alicdn.com/t/font_375611_vg0twe1bbtzc9pb9.ttf
+File Name: C:\Downloaded Web Sites\international.indoex.io\t\font_375611_vg0twe1bbtzc9pb9.ttf
+Content Type: application/octet-stream
+
+Uri: https://at.alicdn.com/t/font_375611_vg0twe1bbtzc9pb9.svg
+File Name: C:\Downloaded Web Sites\international.indoex.io\t\font_375611_vg0twe1bbtzc9pb9.svg
+Content Type: application/octet-stream
+
+Uri: https://international.indoex.io/assets/images/inodo.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\inodo.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/assets/images/indoex_logob.png
+File Name: C:\Downloaded Web Sites\international.indoex.io\assets\images\indoex_logob.png
+Content Type: image/png
+
+Uri: https://international.indoex.io/fontawesome-webfont.674f50d287a8c48dc19b.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\international.indoex.io\fontawesome-webfont.674f50d287a8c48dc19b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://international.indoex.io/fontawesome-webfont.674f50d287a8c48dc19b.eot?
+File Name: C:\Downloaded Web Sites\international.indoex.io\fontawesome-webfont.674f50d287a8c48dc19b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://international.indoex.io/fontawesome-webfont.af7ae505a9eed503f8b8.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\international.indoex.io\fontawesome-webfont.af7ae505a9eed503f8b8.woff2
+Content Type: application/octet-stream
+
+Uri: https://international.indoex.io/fontawesome-webfont.fee66e712a8a08eef580.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\international.indoex.io\fontawesome-webfont.fee66e712a8a08eef580.woff
+Content Type: application/font-woff
+
+Uri: https://international.indoex.io/fontawesome-webfont.b06871f281fee6b241d6.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\international.indoex.io\fontawesome-webfont.b06871f281fee6b241d6.ttf
+Content Type: application/octet-stream
+
+Uri: https://international.indoex.io/fontawesome-webfont.912ec66d7572ff821749.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\international.indoex.io\fontawesome-webfont.912ec66d7572ff821749.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500
+File Name: C:\Downloaded Web Sites\international.indoex.io\css.css
+Content Type: text/css
+

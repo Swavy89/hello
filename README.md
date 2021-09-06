@@ -1,1 +1,1 @@
-# international.indoex.io
+# primex.net
